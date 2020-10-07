@@ -1,0 +1,9 @@
+/Users/christinefletcher/lambda-workspace/personal-projects/tournament-tracker/TrackerClass/TournmentTracker/bin/Debug/netstandard2.0/TournmentTracker.deps.json
+/Users/christinefletcher/lambda-workspace/personal-projects/tournament-tracker/TrackerClass/TournmentTracker/bin/Debug/netstandard2.0/TournmentTracker.dll
+/Users/christinefletcher/lambda-workspace/personal-projects/tournament-tracker/TrackerClass/TournmentTracker/bin/Debug/netstandard2.0/TournmentTracker.pdb
+/Users/christinefletcher/lambda-workspace/personal-projects/tournament-tracker/TrackerClass/TournmentTracker/obj/Debug/netstandard2.0/TournmentTracker.csprojAssemblyReference.cache
+/Users/christinefletcher/lambda-workspace/personal-projects/tournament-tracker/TrackerClass/TournmentTracker/obj/Debug/netstandard2.0/TournmentTracker.AssemblyInfoInputs.cache
+/Users/christinefletcher/lambda-workspace/personal-projects/tournament-tracker/TrackerClass/TournmentTracker/obj/Debug/netstandard2.0/TournmentTracker.AssemblyInfo.cs
+/Users/christinefletcher/lambda-workspace/personal-projects/tournament-tracker/TrackerClass/TournmentTracker/obj/Debug/netstandard2.0/TournmentTracker.csproj.CoreCompileInputs.cache
+/Users/christinefletcher/lambda-workspace/personal-projects/tournament-tracker/TrackerClass/TournmentTracker/obj/Debug/netstandard2.0/TournmentTracker.dll
+/Users/christinefletcher/lambda-workspace/personal-projects/tournament-tracker/TrackerClass/TournmentTracker/obj/Debug/netstandard2.0/TournmentTracker.pdb
